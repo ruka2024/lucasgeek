@@ -1,0 +1,45 @@
+section{
+   margin:190px;
+   margin-left: 630px;
+   background-color:rgb(30, 79, 145);border-radius: 10px;
+   padding: 100px;
+   background: transparent;
+}
+
+h1{
+    text-align: center;
+    color: white;
+    font-size: 50px;
+}
+
+p{
+    text-align: center;
+    color: white;
+    font-size: 23px;
+}
+
+.btn{
+    
+    width: 30%;
+}
+
+body{
+    background-image: url(../dados/origina.jpg);
+    text-align: center;
+    position: fixed;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    
+    
+}
+
+div{
+    text-align: center;
+    size: 100px;
+}
+
+input{
+    font-size: 20px;
+    width: 100%;
+    border-radius: 20px;
+}
